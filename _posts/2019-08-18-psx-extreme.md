@@ -1,6 +1,7 @@
-
-## Felieton do magazynu PSX Extreme
-
+---
+layout: post
+title: Felieton do magazynu PSX Extreme
+---
 Kilka lat po moim kontakcie
 z magazynem GRAMY! podjąłem się
 kolejnej próby wejścia w relację
