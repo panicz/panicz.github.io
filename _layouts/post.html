@@ -9,9 +9,7 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
+  <a onclick="window.history.back()">Powrót</a>
+  
   {% include disqus.html %}
 </article>

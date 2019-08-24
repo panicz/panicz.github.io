@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O mnie
+permalink: /o-mnie/
 ---
 Nazywam się Maciek 
 i na co dzień pracuję
