@@ -8,8 +8,6 @@ i na co dzień pracuję
 jako programista w firmie
 [Kayon](http://kayon.eu/).
 
-![Podczas jakiegoś koncertu organowego na finale Lata z Radiem 2018, Skwer Kościuszki, Gdynia 2018](/images/lato-z-radiem-2018.jpeg "Podczas jakiegoś koncertu organowego na finale Lata z Radiem 2018, Skwer Kościuszki, Gdynia")
-
 Mój tata jest tłumaczem literatury
 Islandzkiej, chętnie dzielącym się
 swoimi przekładami na swoim
@@ -36,6 +34,8 @@ robotami humanoidalnymi, a których
 programowanie (prawdopodobnie
 w kolejnych wpisach opowiem nieco
 więcej o tym projekcie).
+
+![Podczas jakiegoś koncertu organowego na finale Lata z Radiem 2018, Skwer Kościuszki, Gdynia 2018](/images/lato-z-radiem-2018.jpeg "Podczas jakiegoś koncertu organowego na finale Lata z Radiem 2018, Skwer Kościuszki, Gdynia")
 
 Ogólnie ten blog ma mi służyć
 do układania sobie różnych rzeczy
